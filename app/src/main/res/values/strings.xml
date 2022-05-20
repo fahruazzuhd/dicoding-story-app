@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_signup_page">Isi data-datamu dulu ngab</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Login dulu ngab!</string>
+    <string name="title_login_page">Ayo berbagi cerita tentang harimu bersama dicoding!</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="story_app">Story App</string>
+    <string name="text_to_register">Belum punya akun? skuy daftar dulu</string>
+    <string name="logout_title">Logout</string>
+    <string name="image_desc">Gambar story</string>
+    <string name="desc">Deskripsi</string>
+    <string name="camera_button">Kamera</string>
+    <string name="gallery_button">Galeri</string>
+    <string name="upload_button">Unggah</string>
+    <string name="instance_failed">Gagal instasnsiasi retrofit</string>
+    <string name="capture_failed">Gagal mengambil gambar.</string>
+    <string name="opencam_failed">Gagal memuka kamera.</string>
+    <string name="empty_email">Masukkan email</string>
+    <string name="empty_name">Masukkan nama</string>
+    <string name="empty_password">Masukkan password</string>
+    <string name="password_less_than_six">Password tidak boleh kurang dari 6 karakter</string>
+    <string name="mantap">Mantap!</string>
+    <string name="account_created">Akunmu dah jadi ngab, skuy login!</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="select_image">Gambar tidak boleh kosong</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="go_to_maps">Lihat di map</string>
+    <string name="go_to_story">Lihat di list</string>
+    <string name="retry">Retry</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">latitude</string>
+    <string name="lokasi_gagal">Gagal memuat lokasi</string>
+
+</resources>
